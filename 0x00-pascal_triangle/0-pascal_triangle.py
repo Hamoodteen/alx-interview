@@ -6,7 +6,7 @@ import math
 
 
 def pascal_triangle(n):
-    ''' commentttttttttttttttttttttttt '''
+    """ commentttttttttttttttttttttttt """
     ls = []
     if n <= 0:
         return []
