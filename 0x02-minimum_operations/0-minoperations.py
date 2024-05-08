@@ -13,6 +13,7 @@ def isqrt(n):
             y=(x+n//x)//2
     return x
 
+
 def minOperations(n):
     """ commentttttttttttttttttttttttt """
     t0=isqrt(n)+1
