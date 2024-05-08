@@ -1,3 +1,4 @@
+#!/usr/bin/python3
 def isqrt(n):
         x=n
         y=(x+n//x)//2
