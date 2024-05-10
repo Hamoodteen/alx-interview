@@ -16,6 +16,8 @@ def isqrt(n):
 
 def minOperations(n):
     """ commentttttttttttttttttttttttt """
+    if (n <= 1):
+        return 0
     t0 = isqrt(n) + 1
     counter = 0
     t = t0 + counter
