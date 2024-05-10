@@ -3,5 +3,6 @@
 commentttttttttttttttttttttttt
 """
 
+
 def canUnlockAll(boxes):
     return True
